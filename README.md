@@ -4,8 +4,7 @@
 <br>
 HTML, CSS, JavaScript를 이용해서 간단한 회원가입 폼을 만들어 보았습니다. 폼을 제작하고 자바스크립트로 형식 체크라던가, 커서이동, 에러표시, 문자인증 토큰발행과 인증확인, 버튼의 활성화, 비활성화와 같은 DOM조작을 하였습니다.
 
-### <웹호스팅 링크>
-https://k-junyyy.github.io/SIGN-UP-PAGE/signup.html
+
 <br><br><br>
 
 ## 🔨 구현한 기능 
